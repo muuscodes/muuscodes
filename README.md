@@ -5,4 +5,5 @@ I'm a full-stack developer interested in any and all things 🤓. Specifically, 
 * Materials science and engineering 🔬
 * Music analytics 🎶
 * Youth development 🧑‍🏫
+* Computational mathematics ➗
 
